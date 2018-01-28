@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Companies
+comment0.text=\n\ Write\ a\ description\ of\ class\ Companies\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Companies()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Companies\n
+comment2.params=
+comment2.target=java.lang.String\ getCompName()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=name
+comment3.target=void\ setCompName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCategory()
+comment5.params=categoryName
+comment5.target=void\ setCategory(java.lang.String)
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7
